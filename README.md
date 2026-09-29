@@ -12,7 +12,7 @@ Atkinson Grimshaw's moonlit docks and streets.
 ## Installation
 
 ```
-omarchy theme install https://github.com/<your-user>/omarchy-gaslight-theme
+omarchy theme install https://github.com/imanubdesigner/omarchy-gaslight-theme
 ```
 
 ## Backgrounds
