@@ -45,20 +45,22 @@ Icons use **Yaru-sage**.
 
 Seven Grimshaw nocturnes in 16:9:
 
-- *Canny Glasgow*
-- *November Moonlight*
-- *Quai de Paris, Rouen*
-- *Reflections on the Thames, Westminster*
-- *Shipping on the Clyde*
-- *Silver Moonlight*
-- *Whitby at Night*
+- [*Canny Glasgow*](https://www.museothyssen.org/en/collection/artists/grimshaw-john-atkinson/canny-glasgow), 1887 — Museo Thyssen-Bornemisza
+- [*November Moonlight*](https://www.christies.com/en/lot/lot-5287653), 1883 — Christie's
+- [*Quai de Paris, Rouen*](https://commons.wikimedia.org/wiki/File:John_Atkinson_Grimshaw_Quai_de_Paris_Rouen.jpg), 1893 — Wikimedia Commons
+- [*Reflections on the Thames, Westminster*](https://en.wikipedia.org/wiki/Reflections_on_the_Thames,_Westminster), 1880 — Wikipedia
+- [*Shipping on the Clyde*](https://en.wikipedia.org/wiki/Shipping_on_the_Clyde), 1881 — Wikipedia
+- [*Silver Moonlight*](https://commons.wikimedia.org/wiki/File:Silver_Moonlight_by_John_Atkinson_Grimshaw.jpg), 1880 — Wikimedia Commons
+- [*Whitby at Night*](https://www.christies.com/en/lot/lot-6248738), c. 1876 — Christie's
+
+<p align="center">
+  <img src="wallpapers-preview.gif" alt="Grimshaw wallpapers preview" width="100%">
+</p>
 
 ## Notes
 
 If the icons keep the previous theme's colors after switching, close Nautilus
-(`nautilus -q`) and reapply the theme. With
-[Omarchroma](https://github.com/NobleDoodle/omarchroma), run
-`hyprchroma --force`.
+(`nautilus -q`) and reapply the theme.
 
 ## Credits
 
