@@ -41,7 +41,7 @@ Seven Grimshaw nocturnes in 16:9, each linked to a page about the work:
 ## Installation
 
 ```bash
-omarchy theme install https://github.com/imanubdesigner/omarchy-grimshaw-theme
+omarchy theme install https://codeberg.org/imanubdesigner/omarchy-grimshaw-theme
 ```
 
 Then pick **Grimshaw** from *Style > Theme* in the Omarchy menu.
