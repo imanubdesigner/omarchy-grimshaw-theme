@@ -7,7 +7,7 @@ John Atkinson Grimshaw's moonlit docks and streets.
 
 
 <p align="center">
-  <img src="preview.png" alt="Grimshaw preview" width="100%">
+  <img src="preview.webp" alt="Grimshaw preview" width="100%">
 </p>
 
 ---
