@@ -86,3 +86,8 @@ Icons use **Yaru-sage**.
 The paintings are in the public domain; the reproductions here are not original
 work and no license is granted for them. Takedown requests:
 [open an issue](../../issues).
+
+## License
+
+Released under the [MIT License](LICENSE). The license covers the theme's code and
+configuration only, not the images (see Credits).
