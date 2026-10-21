@@ -10,6 +10,11 @@ John Atkinson Grimshaw's moonlit docks and streets.
   <img src="preview.webp" alt="Grimshaw preview" width="100%">
 </p>
 
+> **Artwork & copyright** — The wallpapers here are reproductions of
+> public-domain paintings by John Atkinson Grimshaw, not my own work, and are not
+> covered by any license granted for the theme's code. If you believe something
+> shouldn't be here, [open an issue](../../issues) and I'll remove it immediately.
+
 ---
 
 ## 🖼️ Wallpapers
@@ -41,7 +46,7 @@ Seven Grimshaw nocturnes in 16:9, each linked to a page about the work:
 ## Installation
 
 ```bash
-omarchy theme install https://codeberg.org/imanubdesigner/omarchy-grimshaw-theme
+omarchy theme install https://github.com/imanubdesigner/omarchy-grimshaw-theme
 ```
 
 Then pick **Grimshaw** from *Style > Theme* in the Omarchy menu.
@@ -77,3 +82,7 @@ Icons use **Yaru-sage**.
 - Wallpapers from [Wallhaven](https://wallhaven.cc) and
   [Wikimedia Commons](https://commons.wikimedia.org).
 - Built for [Omarchy](https://omarchy.org).
+
+The paintings are in the public domain; the reproductions here are not original
+work and no license is granted for them. Takedown requests:
+[open an issue](../../issues).
