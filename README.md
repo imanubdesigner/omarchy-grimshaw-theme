@@ -27,7 +27,7 @@ A dark Victorian nocturne theme for Omarchy, painted in the colors of John Atkin
 ### ✨ Highlights
 - 🕯️ **Victorian Nocturne Aesthetic:** Soot-black backgrounds (`#171b1a`) infused with a green cast, wet cobbles, and warm lamplight glow.
 - 🎨 **Fine Art Color Palette:** Drawn directly from 19th-century oil paintings by John Atkinson Grimshaw.
-- 🖼️ **Public Domain Artwork:** 7 curated nocturne paintings formatted in sharp 16:9 for desktop backgrounds.
+- 🖼️ **Public Domain Artwork:** 10 curated nocturne paintings formatted in sharp 16:9 for desktop backgrounds.
 - 📓 **Native Obsidian Theming:** Includes a tailored `obsidian.css` theme handled automatically by Omarchy.
 - 🚀 **Full Omarchy Integration:** Complete styling for Waybar, terminal applications, and system menus.
 
@@ -57,16 +57,19 @@ These are the wallpapers curated for the theme — drop them into `~/.config/oma
 
 ---
 
-## 🎨 The Paintings | Seven Grimshaw Nocturnes
+## 🎨 The Paintings | Ten Grimshaw Nocturnes
 
-Seven Grimshaw nocturnes in 16:9, each linked to historical and gallery archives:
+Ten Grimshaw nocturnes in 16:9, each linked to historical and gallery archives:
 
 - [*Canny Glasgow*](https://www.museothyssen.org/en/collection/artists/grimshaw-john-atkinson/canny-glasgow), 1887 | Museo Thyssen-Bornemisza
+- [*Heath Street, Hampstead*](https://www.christies.com/en/lot/lot-6154031), 1882 | Christie's
+- [*Nearing Home*](https://www.christies.com/en/lot/lot-6122930), 1872 | Christie's
 - [*November Moonlight*](https://www.christies.com/en/lot/lot-5287653), 1883 | Christie's
 - [*Quai de Paris, Rouen*](https://commons.wikimedia.org/wiki/File:John_Atkinson_Grimshaw_Quai_de_Paris_Rouen.jpg), 1893 | Wikimedia Commons
 - [*Reflections on the Thames, Westminster*](https://en.wikipedia.org/wiki/Reflections_on_the_Thames,_Westminster), 1880 | Wikipedia
 - [*Shipping on the Clyde*](https://en.wikipedia.org/wiki/Shipping_on_the_Clyde), 1881 | Wikipedia
 - [*Silver Moonlight*](https://commons.wikimedia.org/wiki/File:Silver_Moonlight_by_John_Atkinson_Grimshaw.jpg), 1880 | Wikimedia Commons
+- [*Spirit of the Night*](https://commons.wikimedia.org/wiki/File:John_Atkinson_Grimshaw_-_Spirit_of_the_Night.jpg), 1879 | Wikimedia Commons
 - [*Whitby at Night*](https://www.christies.com/en/lot/lot-6248738), c. 1876 | Christie's
 
 ---
